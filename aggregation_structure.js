@@ -1,4 +1,5 @@
 // simple first example
+use solarSystem
 db.solarSystem.aggregate([{
   "$match": {
     "atmosphericComposition": { "$in": [/O2/] },
