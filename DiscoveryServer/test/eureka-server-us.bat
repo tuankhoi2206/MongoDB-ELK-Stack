@@ -1,0 +1,1 @@
+java -jar  -Dspring.profiles.active=united-states DiscoveryServer-0.0.1-SNAPSHOT.jar
